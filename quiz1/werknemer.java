@@ -1,6 +1,3 @@
-
-package _10_statistische_leden.qz01;
-
 public class Werknemer {
 	int nr;	// instantievariabele: is voor elk Werknemerobject anders
 	static int stNr;	// klassenvariabele, wordt gedeeld onder alle objecten
